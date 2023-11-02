@@ -1,0 +1,18 @@
+.main {
+  margin: 0;
+  padding: 0;
+}
+.one {
+  background-color: rgb(44, 37, 37);
+  border-radius: 2rem;
+  box-shadow: 2px 5px 5px rgb(44, 37, 37);
+  height: auto;
+}
+
+.btn {
+  height: auto;
+  width: px;
+}
+#result {
+  font-family: "Droid Sans Mono", monospace;
+}
